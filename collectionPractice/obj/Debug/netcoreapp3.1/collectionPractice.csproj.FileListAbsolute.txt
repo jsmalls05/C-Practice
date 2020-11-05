@@ -1,0 +1,4 @@
+C:\Users\Owner\OneDrive\Dojo\C#\collectionPractice\obj\Debug\netcoreapp3.1\collectionPractice.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\Dojo\C#\collectionPractice\obj\Debug\netcoreapp3.1\collectionPractice.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Dojo\C#\collectionPractice\obj\Debug\netcoreapp3.1\collectionPractice.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Dojo\C#\collectionPractice\obj\Debug\netcoreapp3.1\collectionPractice.csproj.CoreCompileInputs.cache
