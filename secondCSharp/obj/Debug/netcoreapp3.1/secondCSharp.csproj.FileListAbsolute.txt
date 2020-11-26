@@ -1,0 +1,4 @@
+C:\Users\Owner\OneDrive\Dojo\C#\secondCSharp\obj\Debug\netcoreapp3.1\secondCSharp.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\Dojo\C#\secondCSharp\obj\Debug\netcoreapp3.1\secondCSharp.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Dojo\C#\secondCSharp\obj\Debug\netcoreapp3.1\secondCSharp.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Dojo\C#\secondCSharp\obj\Debug\netcoreapp3.1\secondCSharp.csproj.CoreCompileInputs.cache
