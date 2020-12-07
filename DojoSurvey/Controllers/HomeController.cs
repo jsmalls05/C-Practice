@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-namespace DojoSurvey.Controllers 
+namespace DojoSurvey.Controllers
 {
     public class HomeController : Controller
     {
