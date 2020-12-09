@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace hungryNinja
+namespace hungryNinja 
 {
 class Program
     {
