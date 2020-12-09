@@ -13,7 +13,7 @@ namespace hungryNinja
         {
             Menu = new List<Food>()
             {
-                new Food("Steak & Loaded Baked Potato", 850, false, false),
+                new Food("Steak & Loaded Baked Potato", 850, false, false), 
                 new Food("Pizza Slice(Meat Lovers)", 300, true, false),
                 new Food("Rice & Spicy Beans", 700, true, false),
                 new Food("General Tso Chicken", 1200, true, true),
