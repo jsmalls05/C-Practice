@@ -6,7 +6,7 @@ namespace hungryNinja
     class Ninja
     {
         private int calorieIntake;
-        private int calorieLimit;
+        private int calorieLimit; 
         public List<Food> Stomach;
         public bool IsFull {
             get {
