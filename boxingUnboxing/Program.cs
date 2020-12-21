@@ -6,7 +6,7 @@ namespace boxingUnboxing
     {
         static void Main(string[] args)
         {
-            var objList = new List<object>
+            var objList = new List<object> 
             {
                 7,
                 28,
