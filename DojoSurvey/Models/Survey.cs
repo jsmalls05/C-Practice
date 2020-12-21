@@ -1,5 +1,5 @@
 using System.ComponentModel.DataAnnotations;
-using System;
+using System; 
 namespace DojoSurvey.Models
 {
     public class Survey
