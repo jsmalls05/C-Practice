@@ -14,6 +14,6 @@ namespace TimeDisplay.Controllers
             var now = DateTime.Now;
             
             return View("Index", now);
-        }
+        } 
     }
 }
